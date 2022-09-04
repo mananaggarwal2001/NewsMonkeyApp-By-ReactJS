@@ -11,7 +11,7 @@ import {
 } from "react-router-dom";
 
 const App = () => {
-  const apikey = "fd5b69691fc948e9864e8c62c2751b06";
+  const apikey = "" // put the  obtained API Key here in the blank which is available;
 
   const [progress, setProgress] = useState(0);
   return (
