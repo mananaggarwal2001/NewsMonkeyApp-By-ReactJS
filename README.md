@@ -38,6 +38,7 @@ cd News (Press Tab for auto completion).
 code .
 ```
 6. Go to the App.js file and replace the apikey with your key which you have obtained from the newsapi site as in the given ScreenShot
+
 ![image](https://user-images.githubusercontent.com/75381077/188330971-77043c23-eea1-47c3-bc6f-60029824b252.png)
 
 7. Now to Start the project just write the command
